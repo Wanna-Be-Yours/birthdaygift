@@ -85,7 +85,7 @@ Aku gatau surat ini bisa kesampein ke kamu atau engga, aku kurang yakin bisa kir
     id: 4,
     year: 2026,
     from_label: "Dari Seseorang Pada Tahun 2026",
-    content: `DAMNNN TAUNN INI UDAA 17??? wkakakaka yang dulu nya cuman bocil sekarang udaa nyampe 17 taun ajaa, aku harap kamu selalu bertahan di setiap kondisi selalu jaga kesehatannya, semmoga kedepannya semakin di kelilingin sama orang orang baik, aku kangen. I miss everything what we had before, banyak hal yang selalu aku pengen aku obrolin ke kamu, banyak banget ungkapan ungkapan yang pengen aku bilang ke kamu, sekali aja aku pengen ngobrol lagi. mungkin kamu lupa semua nya tapi aku masi pengen ngebahas beberapa hal. anw happpyy birthdayy yangg ke 17 yaa, makasii udaa bacaa.`,
+    content: `DAMNNN TAUNN INI UDAA 17??? wkakakaka yang dulu nya cuman bocil sekarang udaa nyampe 17 taun ajaa, aku harap kamu selalu bertahan di setiap kondisi selalu jaga kesehatannya, semmoga kedepannya semakin di kelilingin sama orang orang baik, aku kangen. I miss everything what we had before, banyak hal yang selalu aku pengen aku obrolin ke kamu, banyak banget ungkapan ungkapan yang pengen aku bilang ke kamu, sekali aja aku pengen ngobrol lagi. mungkin kamu lupa semua nya tapi aku masi pengen ngebahas beberapa hal. anw happpyy birthdayy yangg ke 17 yaa, makasii udaa bacaa. oiya aku juga udaa ngasii gift kecil buat kamu semoga suka, aku gatau apa yang kamu suka sekarang tapi aku harap kamu masi suka hal hal yang aku kasi itu.`,
   },
 ];
 
